@@ -25,7 +25,7 @@
     "Admin": {
       "hwid": "AB66CD2C4E7E312D",
       "expireDate": "2027-05-07",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "Test Key",
       "userRank": "Supreme User"
     }
