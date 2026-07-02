@@ -28,6 +28,13 @@
       "isBanned": true,
       "banReason": "Test Key",
       "userRank": "Supreme User"
+    },
+    "M": {
+      "hwid": "AB66CD2C4E7E312D",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
