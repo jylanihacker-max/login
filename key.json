@@ -35,6 +35,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "S": {
+      "hwid": "AB66CD2C4E7E312D",
+      "expireDate": "2027-06-19",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
