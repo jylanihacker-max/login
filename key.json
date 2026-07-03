@@ -28,8 +28,8 @@
     "h": {
       "hwid": "B7EC74BEA1DE686E",
       "expireDate": "2027-07-31",
-      "isBanned": false,
-      "banReason": "",
+      "isBanned": true,
+      "banReason": "گیری",
       "userRank": "Supreme User"
     }
   }
