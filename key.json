@@ -6,13 +6,13 @@
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "برسی لایسنس",
     "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
-    "statusBadge": "SECURE",
+    "maintenanceMsg": "server is temporarily down for maintenance.",
+    "statusBadge": "مجوز صادر شد",
     "tags": [],
     "title": "اعتبار سنجی لایسنس",
-    "updateMsg": "New DPMods version available! Please update.",
+    "updateMsg": "New version available! Please update.",
     "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateUrl": "https://t.me/AS6907863"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
